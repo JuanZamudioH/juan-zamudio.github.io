@@ -1,0 +1,30 @@
+body {
+  font-family: "Open Sans", helvetica, arial, sans-serif;
+  margin: 3vw;
+}
+
+h1 {
+  color: DodgerBlue;
+}
+
+.logo{
+  text-align:left;
+  width: 48vw;
+}
+
+.main{
+  display: flex;
+  justify-content: space-around;
+  height: 70vh;
+}
+
+.left, .rigth{
+  width:46vw;
+}
+
+img{
+  heigth: 40vh;
+  width:auto;
+  margin:3vh 0;
+}
+
